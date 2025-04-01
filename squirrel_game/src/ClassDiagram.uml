@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/alex/IdeaProjects/SquirrelGame</OriginalElement>
+  <nodes>
+    <node x="2851.9201418711327" y="78.10606982374168">hs.augsburg.squirrelgame.command.CommandScanner</node>
+    <node x="1437.2618759722732" y="-1153.2690171701631">hs.augsburg.squirrelgame.entity.MovableEntity</node>
+    <node x="415.3428823579957" y="-1584.4152520023665">hs.augsburg.squirrelgame.entity.EntitySet.ListElement</node>
+    <node x="-753.999182339479" y="39.08544160284828">hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot.ControllerContextImpl</node>
+    <node x="2612.915864234903" y="1402.6830678403453">hs.augsburg.squirrelgame.test.EnumerationTest</node>
+    <node x="840.1366503175459" y="-286.3795162473903">hs.augsburg.squirrelgame.entity.EntityContext</node>
+    <node x="-317.4401972483939" y="-85.92177022112492">hs.augsburg.squirrelgame.botAPI.BotControllerFactoryImpl</node>
+    <node x="378.9808351003435" y="-635.568775050943">hs.augsburg.squirrelgame.entity.plant.GoodPlant</node>
+    <node x="233.6187878426913" y="-635.568775050943">hs.augsburg.squirrelgame.entity.util.Wall</node>
+    <node x="1241.5669768733" y="-117.8685329317234">hs.augsburg.squirrelgame.ui.BoardView</node>
+    <node x="2218.5162939839147" y="192.43133005758943">hs.augsburg.squirrelgame.game.State</node>
+    <node x="4218.952206172275" y="952.9355382311792">hs.augsburg.squirrelgame.command.command.HelpCommand</node>
+    <node x="3876.1687092142583" y="-319.7257498874535">hs.augsburg.squirrelgame.command.CommandImpl</node>
+    <node x="1489.4398146381177" y="-286.37951624739037">hs.augsburg.squirrelgame.entity.EntityInterface</node>
+    <node x="3755.6722737350274" y="-7.849976770953617">hs.augsburg.squirrelgame.command.command.direction.DirectionUpCommand</node>
+    <node x="3590.190271134306" y="-503.57440425572986">hs.augsburg.squirrelgame.command.CommandTypeInfo</node>
+    <node x="2304.291071388604" y="-687.9952652173977">hs.augsburg.squirrelgame.test.TestEntity</node>
+    <node x="563.3428823579957" y="-635.568775050943">hs.augsburg.squirrelgame.entity.plant.BadPlant</node>
+    <node x="-89.03747876247377" y="-651.068775050943">hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot</node>
+    <node x="155.6187878426913" y="-304.192914094803">hs.augsburg.squirrelgame.botAPI.ControllerContext</node>
+    <node x="-632.2015922961609" y="488.05321709028044">hs.augsburg.squirrelgame.ui.FxUI</node>
+    <node x="-264.4401972483939" y="-323.46405796848103">hs.augsburg.squirrelgame.botAPI.BotController</node>
+    <node x="3981.30532267744" y="120.10606982374168">hs.augsburg.squirrelgame.command.command.direction.DirectionDownCommand</node>
+    <node x="-317.4401972483939" y="-218.692914094803">hs.augsburg.squirrelgame.botAPI.BotControllerFactory</node>
+    <node x="1381.1348872538606" y="658.7867900995694">hs.augsburg.squirrelgame.game.GameImpl</node>
+    <node x="1160.5669768733" y="-1943.254804420327">hs.augsburg.squirrelgame.entity.EntityType</node>
+    <node x="3073.2482782019224" y="-1333.0051758148136">hs.augsburg.squirrelgame.util.Direction</node>
+    <node x="-556.2015922961609" y="1449.7125880124486">hs.augsburg.squirrelgame.ui.GUIKeyListener</node>
+    <node x="-138.68326481341285" y="1025.7197721845855">hs.augsburg.squirrelgame.ui.ConsoleUI</node>
+    <node x="1025.5129039493631" y="414.18497430404614">hs.augsburg.squirrelgame.game.GameMode</node>
+    <node x="2589.7220950174296" y="-719.0583968039408">hs.augsburg.squirrelgame.entity.squirrel.HandOperatedMasterSquirrel</node>
+    <node x="1567.4290241309523" y="-665.0687750509433">hs.augsburg.squirrelgame.entity.squirrel.MasterSquirrel</node>
+    <node x="-411.6937453676387" y="-651.068775050943">hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot</node>
+    <node x="4241.265543249519" y="283.5089905262643">hs.augsburg.squirrelgame.command.command.ExitCommand</node>
+    <node x="1152.0669768733" y="-766.0687750509433">hs.augsburg.squirrelgame.entity.beast.BadBeast</node>
+    <node x="4493.739523393596" y="418.09773844710026">hs.augsburg.squirrelgame.command.command.direction.DirectionRightCommand</node>
+    <node x="1874.8255906188874" y="635.7579329936807">hs.augsburg.squirrelgame.main.Launcher</node>
+    <node x="5089.851529134928" y="28.48425862757813">hs.augsburg.squirrelgame.botAPI.exception.OutOfViewException</node>
+    <node x="-117.03747876247377" y="-481.37637861160493">hs.augsburg.squirrelgame.botAPI.BotControllerMini</node>
+    <node x="5213.764477644644" y="-57.383452983499524">hs.augsburg.squirrelgame.botAPI.exception.ImpactRadiusOutOfBoundsException</node>
+    <node x="-439.6937453676387" y="-481.37637861160493">hs.augsburg.squirrelgame.botAPI.BotControllerMaster</node>
+    <node x="1830.8255906188874" y="93.79842837365163">hs.augsburg.squirrelgame.board.Board</node>
+    <node x="1874.8600477597781" y="-808.068775050943">hs.augsburg.squirrelgame.entity.squirrel.MiniSquirrel</node>
+    <node x="4772.268955710988" y="552.6864863679361">hs.augsburg.squirrelgame.command.command.PauseCommand</node>
+    <node x="5040.8830503175195" y="687.275234288772">hs.augsburg.squirrelgame.command.command.ResumeCommand</node>
+    <node x="736.7049296156479" y="-735.0687750509433">hs.augsburg.squirrelgame.entity.beast.GoodBeast</node>
+    <node x="4909.938580625211" y="-57.383452983499524">hs.augsburg.squirrelgame.util.exception.NotEnoughEnergyException</node>
+    <node x="-149.92949412019266" y="713.705467538382">hs.augsburg.squirrelgame.ui.UI</node>
+    <node x="3537.3758948781356" y="-123.14465750819755">hs.augsburg.squirrelgame.command.command.SpawnMiniCommand</node>
+    <node x="1038.0129039493631" y="630.7867900995694">hs.augsburg.squirrelgame.game.Game</node>
+    <node x="2717.6313713011514" y="-1527.9879484291182">hs.augsburg.squirrelgame.util.XY</node>
+    <node x="3755.406886899252" y="952.9355382311791">hs.augsburg.squirrelgame.command.command.MasterEnergyCommand</node>
+    <node x="736.7049296156479" y="-1724.4152520023665">hs.augsburg.squirrelgame.entity.EntitySet</node>
+    <node x="141.1187878426913" y="9.585441602848277">hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot.ControllerContextImpl</node>
+    <node x="3335.385922543413" y="61.10606982374168">hs.augsburg.squirrelgame.command.Command</node>
+    <node x="1402.1348872538606" y="59.90499392472714">hs.augsburg.squirrelgame.board.FlattenedBoard</node>
+    <node x="1152.0669768733" y="-1794.4152520023665">hs.augsburg.squirrelgame.entity.Entity</node>
+    <node x="5282.069155079922" y="844.2757951537809">hs.augsburg.squirrelgame.command.command.direction.DirectionLeftCommand</node>
+    <node x="2851.9201418711327" y="1582.4361404477459">hs.augsburg.squirrelgame.test.EntitySetTest</node>
+    <node x="1922.3255906188876" y="488.90499392472714">hs.augsburg.squirrelgame.board.BoardConfig</node>
+    <node x="3090.9246203325565" y="-394.889034169733">hs.augsburg.squirrelgame.command.GameCommandType</node>
+    <node x="2406.9115865986737" y="1582.4361404477459">hs.augsburg.squirrelgame.test.CollisionTest</node>
+    <node x="3073.2482782019224" y="-1527.9879484291182">hs.augsburg.squirrelgame.util.MathUtils</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="hs.augsburg.squirrelgame.test.TestEntity" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="3.420765933697112E-4" y="-60.50042423419666" />
+      <point x="2419.2914134651974" y="-887.6501562111062" />
+      <point x="1267.0671356821294" y="-887.6501562111062" />
+      <point x="1.5880882938290597E-4" y="286.0000810473806" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.squirrel.MasterSquirrel" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="-125.99981149133919" y="-26.768552645354475" />
+      <point x="1700.463512316539" y="-632.8373276962977" />
+      <point x="1700.463512316539" y="-887.6501562111062" />
+      <point x="1267.0671356821294" y="-887.6501562111062" />
+      <point x="1.5880882938290597E-4" y="286.0000810473806" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.ui.GUIKeyListener" target="hs.augsburg.squirrelgame.ui.FxUI" relationship="GENERALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="-462.2015922961609" y="1368.0532170902804" />
+      <point x="153.93729808131064" y="440.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.ResumeCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="-57.76659329173344" y="21.020191249289724" />
+      <point x="5160.116457025786" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.board.FlattenedBoard" target="hs.augsburg.squirrelgame.ui.BoardView" relationship="REALIZATION">
+      <point x="187.0" y="-49.8213176189704" />
+      <point x="1542.1014247054627" y="254.08367630575674" />
+      <point x="1542.1014247054627" y="-41.73726116133162" />
+      <point x="1339.0669768733" y="-41.73726116133162" />
+      <point x="1339.0669768733" y="-58.868532931723394" />
+      <point x="-97.5" y="0.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.direction.DirectionLeftCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="192.99969520275965" y="4.4242734873023437E-4" />
+      <point x="5294.051680051768" y="889.2762375811296" />
+      <point x="5294.051680051768" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.squirrel.HandOperatedMasterSquirrel" target="hs.augsburg.squirrelgame.entity.squirrel.MasterSquirrel" relationship="GENERALIZATION">
+      <point x="-9.264651089324616E-5" y="-101.00010080653954" />
+      <point x="2776.7220023709187" y="-887.6501562111062" />
+      <point x="1758.2707853060647" y="-887.6501562111062" />
+      <point x="64.84176117511242" y="31.048130083788237" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.game.GameImpl" target="hs.augsburg.squirrelgame.game.Game" relationship="GENERALIZATION">
+      <point x="-208.0" y="-147.38441417898957" />
+      <point x="1430.667503823241" y="671.4023759205799" />
+      <point x="1430.667503823241" y="818.7867900995694" />
+      <point x="96.5" y="0.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.ui.ConsoleUI" target="hs.augsburg.squirrelgame.ui.UI" relationship="REALIZATION">
+      <point x="-106.50017662260007" y="-9.307085747423116E-6" />
+      <point x="-204.82044143601297" y="1143.7197628774998" />
+      <point x="-204.82044143601297" y="786.7057628774996" />
+      <point x="-106.4999473158203" y="2.9533911765611265E-4" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.Command" target="hs.augsburg.squirrelgame.command.CommandImpl" relationship="REALIZATION">
+      <point x="152.4997113444888" y="8.14465081475646E-5" />
+      <point x="3507.1502576053463" y="165.10615127024982" />
+      <point x="3507.1502576053463" y="-290.22616472203276" />
+      <point x="-97.49959784405064" y="-4.148345792600594E-4" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.BotControllerMini" target="hs.augsburg.squirrelgame.botAPI.BotController" relationship="REALIZATION">
+      <point x="-9.020049014907272E-5" y="-44.99960659578369" />
+      <point x="11.962431037036083" y="-357.42021829004295" />
+      <point x="-135.44035020589587" y="-357.42021829004295" />
+      <point x="-1.529575019958429E-4" y="29.499834274731484" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.BotControllerFactoryImpl" target="hs.augsburg.squirrelgame.botAPI.BotControllerFactory" relationship="REALIZATION">
+      <point x="120.89830057487916" y="-59.0" />
+      <point x="-161.94019724839387" y="-85.92177022112492" />
+      <point x="0.0" y="43.5" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.squirrel.MiniSquirrel" target="hs.augsburg.squirrelgame.entity.MovableEntity" relationship="GENERALIZATION">
+      <point x="186.9995824898408" y="2.9538142473484186E-4" />
+      <point x="2081.0139561080514" y="-606.0684796695183" />
+      <point x="2081.0139561080514" y="-887.6501562111062" />
+      <point x="1516.0" y="-887.6501562111062" />
+      <point x="1516.0" y="-1123.7690171701631" />
+      <point x="1499.2023132597735" y="-1123.7690171701631" />
+      <point x="1499.2023132597735" y="-1104.9576836108804" />
+      <point x="-51.25580070682258" y="18.81133355928273" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.plant.BadPlant" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="1.433388511031808E-4" y="-29.500034073119195" />
+      <point x="629.3430256968468" y="-887.6501562111062" />
+      <point x="1267.0671356821294" y="-887.6501562111062" />
+      <point x="1.5880882938290597E-4" y="286.0000810473806" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.MovableEntity" target="hs.augsburg.squirrelgame.entity.EntityContext" relationship="REALIZATION">
+      <point x="131.9997653019309" y="4.909686272185354E-4" />
+      <point x="1558.4797118062836" y="-1123.768526201536" />
+      <point x="1558.4797118062836" y="-366.22414564916676" />
+      <point x="1169.0279619225741" y="-366.22414564916676" />
+      <point x="1169.0279619225741" y="-240.16753392899284" />
+      <point x="159.6008100184688" y="-25.288017681602525" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.HelpCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="-20.08423538185707" y="8.287707997518737" />
+      <point x="4363.214163920375" y="1006.2232462286979" />
+      <point x="4363.214163920375" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.MovableEntity" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="-2.673980387811298" y="2.636940145994231" />
+      <point x="1566.5878955844619" y="-1465.6909145782888" />
+      <point x="1294.3924889359014" y="-1465.6909145782888" />
+      <point x="27.32551206260132" y="191.45500358759068" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.MasterEnergyCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="1.749447951624461E-4" y="-45.000153861833724" />
+      <point x="3950.4070618440473" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot" target="hs.augsburg.squirrelgame.entity.squirrel.MasterSquirrel" relationship="GENERALIZATION">
+      <point x="-114.99979459662745" y="19.09560753722667" />
+      <point x="-296.6937453676387" y="-586.9731675137164" />
+      <point x="-296.6937453676387" y="-536.6106056699022" />
+      <point x="516.4062399103204" y="-536.6106056699022" />
+      <point x="516.4062399103204" y="-416.7241456491668" />
+      <point x="1693.4290241309523" y="-416.7241456491668" />
+      <point x="1693.4290241309523" y="-559.2213099119616" />
+      <point x="49.48342529727552" y="46.84746513898165" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.plant.GoodPlant" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="1.2288105790503323E-4" y="-29.49976292722988" />
+      <point x="450.4809579814014" y="-887.6501562111062" />
+      <point x="1267.0671356821294" y="-887.6501562111062" />
+      <point x="1.5880882938290597E-4" y="286.0000810473806" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.EntitySet.ListElement" target="hs.augsburg.squirrelgame.entity.EntitySet" relationship="INNER_CLASS">
+      <point x="0.0" y="-146.0" />
+      <point x="506.3428823579957" y="-1379.0662691596422" />
+      <point x="874.7049296156479" y="-1379.0662691596422" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot.ControllerContextImpl" target="hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot" relationship="INNER_CLASS">
+      <point x="144.5" y="0.0" />
+      <point x="-595.7015720340105" y="183.58544160284828" />
+      <point x="-595.7015720340105" y="-521.222576831274" />
+      <point x="-183.56972847292718" y="-521.222576831274" />
+      <point x="113.12401689471153" y="-45.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.SpawnMiniCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="4.276105187631401" y="45.54314552095636" />
+      <point x="3727.652000065767" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.squirrel.HandOperatedMasterSquirrel" target="hs.augsburg.squirrelgame.entity.EntityContext" relationship="REALIZATION">
+      <point x="-82.29739780310092" y="10.142217769903596" />
+      <point x="2765.2626908680913" y="-607.9161790340372" />
+      <point x="2765.2626908680913" y="-366.2241456491668" />
+      <point x="1708.6537041718116" y="-366.2241456491668" />
+      <point x="1708.6537041718116" y="-366.22414564916676" />
+      <point x="1134.8659555763365" y="-366.22414564916676" />
+      <point x="1134.8659555763365" y="-214.8795162473903" />
+      <point x="1186.2235009753142" y="-214.8795162473903" />
+      <point x="1186.2235009753142" y="-262.16196314506453" />
+      <point x="45.74606081174852" y="-47.28244689767422" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.ExitCommand" target="hs.augsburg.squirrelgame.command.CommandImpl" relationship="REALIZATION">
+      <point x="20.87710483426781" y="41.52347349557033" />
+      <point x="4426.142648083787" y="-290.22616472203276" />
+      <point x="-97.49959784405064" y="-4.148345792600594E-4" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.ExitCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="1.3267608328205824" y="36.19156149517573" />
+      <point x="4406.59230408234" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.direction.DirectionUpCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="6.225300330697792E-5" y="44.999872711631724" />
+      <point x="3945.1723359880307" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.BotControllerMaster" target="hs.augsburg.squirrelgame.botAPI.BotController" relationship="REALIZATION">
+      <point x="-128.99982933232377" y="-1.9462092996036517E-4" />
+      <point x="-310.6937453676387" y="-436.3765732325349" />
+      <point x="-310.6937453676387" y="-357.42021829004295" />
+      <point x="-135.44035020589587" y="-357.42021829004295" />
+      <point x="-1.529575019958429E-4" y="29.499834274731484" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot.ControllerContextImpl" target="hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot" relationship="INNER_CLASS">
+      <point x="0.0" y="174.0" />
+      <point x="285.6187878426913" y="-18.303736245977348" />
+      <point x="501.01821107169224" y="-18.303736245977348" />
+      <point x="501.01821107169224" y="-521.222576831274" />
+      <point x="25.962521237526232" y="-521.222576831274" />
+      <point x="25.962521237526232" y="-606.068775050943" />
+      <point x="-115.0" y="0.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.ui.FxUI" target="hs.augsburg.squirrelgame.ui.UI" relationship="REALIZATION">
+      <point x="170.00015086014795" y="-4.5421278082358185E-4" />
+      <point x="-204.82044143601297" y="928.0527628774996" />
+      <point x="-204.82044143601297" y="786.7057628774996" />
+      <point x="-106.4999473158203" y="2.9533911765611265E-4" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.beast.BadBeast" target="hs.augsburg.squirrelgame.entity.MovableEntity" relationship="GENERALIZATION">
+      <point x="-186.99979768934827" y="7.343506740653538E-5" />
+      <point x="1377.7010818384747" y="-606.0687016158759" />
+      <point x="1377.7010818384747" y="-887.6501562111062" />
+      <point x="1516.0" y="-887.6501562111062" />
+      <point x="1516.0" y="-1110.838098272319" />
+      <point x="-79.84320142744946" y="12.930918897844094" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot.ControllerContextImpl" target="hs.augsburg.squirrelgame.botAPI.ControllerContext" relationship="REALIZATION">
+      <point x="-49.00036396733901" y="-169.04820521250707" />
+      <point x="236.89342932848376" y="14.537236390341207" />
+      <point x="236.89342932848376" y="-175.19338456211653" />
+      <point x="-129.99972375117113" y="-4.7046731356203964E-4" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.util.Wall" target="hs.augsburg.squirrelgame.entity.Entity" relationship="GENERALIZATION">
+      <point x="4.096398784207906" y="6.292194247804218" />
+      <point x="289.7151866268992" y="-887.6501562111062" />
+      <point x="1267.0671356821294" y="-887.6501562111062" />
+      <point x="1.5880882938290597E-4" y="286.0000810473806" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.PauseCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="2.492675530447741E-4" y="45.00035403172751" />
+      <point x="4942.769204978541" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.GameCommandType" target="hs.augsburg.squirrelgame.command.CommandTypeInfo" relationship="REALIZATION">
+      <point x="139.06156205056004" y="-188.0" />
+      <point x="3422.9861823831166" y="-443.23676516472403" />
+      <point x="3691.190271134306" y="-443.23676516472403" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.beast.GoodBeast" target="hs.augsburg.squirrelgame.entity.MovableEntity" relationship="GENERALIZATION">
+      <point x="163.4216869951856" y="-129.00011928461402" />
+      <point x="1087.1266166108335" y="-887.6501562111062" />
+      <point x="1516.0" y="-887.6501562111062" />
+      <point x="1516.0" y="-1123.7690171701631" />
+      <point x="1489.077210641332" y="-1123.7690171701631" />
+      <point x="1489.077210641332" y="-1116.5292294605279" />
+      <point x="-41.130698088380996" y="7.239787709635266" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.board.FlattenedBoard" target="hs.augsburg.squirrelgame.entity.EntityContext" relationship="REALIZATION">
+      <point x="86.03735393654665" y="-110.30392678644807" />
+      <point x="1675.1722411904072" y="334.7973537436391" />
+      <point x="1055.8988910488051" y="334.7973537436391" />
+      <point x="1055.8988910488051" y="-174.37640015962728" />
+      <point x="64.28951775027372" y="40.50311608776303" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MasterSquirrelBot.ControllerContextImpl" target="hs.augsburg.squirrelgame.botAPI.ControllerContext" relationship="REALIZATION">
+      <point x="76.76674963686844" y="-42.35993396611332" />
+      <point x="-532.7324327026106" y="218.97578377898787" />
+      <point x="67.33929529714871" y="218.97578377898787" />
+      <point x="67.33929529714871" y="-175.19291409480297" />
+      <point x="173.63709735572957" y="-175.19291409480297" />
+      <point x="173.63709735572957" y="-46.19291409480297" />
+      <point x="-129.99972375117113" y="129.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.entity.Entity" target="hs.augsburg.squirrelgame.entity.EntityInterface" relationship="REALIZATION">
+      <point x="115.0" y="232.9697123373545" />
+      <point x="2314.5887708152177" y="-1275.445539665012" />
+      <point x="2314.5887708152177" y="-214.87951624739037" />
+      <point x="-115.0" y="0.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.direction.DirectionDownCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="1.3328165277926018E-4" y="45.00027412837994" />
+      <point x="4180.305455959093" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.botAPI.MiniSquirrelBot" target="hs.augsburg.squirrelgame.entity.squirrel.MiniSquirrel" relationship="GENERALIZATION">
+      <point x="115.0" y="0.0" />
+      <point x="176.68994807380045" y="-606.068775050943" />
+      <point x="176.68994807380045" y="-416.7241456491668" />
+      <point x="2061.8600477597784" y="-416.7241456491668" />
+      <point x="0.0" y="202.0" />
+    </edge>
+    <edge source="hs.augsburg.squirrelgame.command.command.direction.DirectionRightCommand" target="hs.augsburg.squirrelgame.command.Command" relationship="GENERALIZATION">
+      <point x="197.49986129839453" y="-1.858017458289396E-4" />
+      <point x="4691.239523393596" y="463.0975526453544" />
+      <point x="4691.239523393596" y="901.0" />
+      <point x="3487.885633887902" y="901.0" />
+      <point x="-2.886555112127098E-4" y="104.00008144650826" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.4622536171888867" showDependencies="false" x="2226.3105595257134" y="322.58971742865015" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
