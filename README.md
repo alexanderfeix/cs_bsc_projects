@@ -9,7 +9,6 @@ The following briefly introduces each project in this repository with the accord
 ## 2. Semester
 The first major project in my bachelor program was the development of a game in Java language, which was created in a team of three students.
 The game was developed during the semester lecture time with several extensions added in each week of the semester.
-TODO: Include picture here
 
 ## 3. Semester
 In my third and fourth semester i took responsibility as the Manager of Mapping and Path Planning in the Formula Student Team of the university.
@@ -29,11 +28,16 @@ In the fifth semester i gained my first practical work experience as a Software 
 ## 6. Semester
 In the last semester before my bachelor thesis i developed a Chatbot that answers questions about the university.
 The chatbot is built leveraging small LLMs and a robust RAG System using Langchain.
-A very detailed project explanation with posters can be found in /chatbot.
+
+<img src="/chatbot/static/first_poster.png" alt="" width="30%"/> <img src="/chatbot/static/second_poster.png" alt="" width="30%"/> 
+
+A very detailed project explanation can be found in /chatbot.
 
 Apart from the chatbot project, i created some small projects during a practical course at the university.
 One of the projects is included here and shows the aridity of plants using a microcontroller and automated push notifications on smartphones.
 More information about the project is located in /smart_plants.
+
+<img src="./smart_plants/static/aufbau.jpeg" alt="Hardware-Setup" width="20%"/>
 
 ## 7. Semester
 I conducted my bachelor thesis at the BMW Group in Munich and implemented a chatbot that answers questions about internal project data in the department.
