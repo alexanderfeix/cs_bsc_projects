@@ -24,10 +24,11 @@ A more detailed describtion and the results of the research are published [here]
 
 ## 5. Semester
 In the fifth semester i gained my first practical work experience as a Software Engineer at the ASAP Engineering GmbH.
+During this time, i learnt a lot about data extraction from different (automotive) software tools using Python and worked on improving the automation process in the team.
 
 ## 6. Semester
 In the last semester before my bachelor thesis i developed a Chatbot that answers questions about the university.
-The chatbot is built leveraging small LLMs and a robust RAG System using Langchain.
+The chatbot is built leveraging small language models and a robust RAG System using Langchain.
 
 <img src="/chatbot/static/first_poster.png" alt="" width="30%"/> <img src="/chatbot/static/second_poster.png" alt="" width="30%"/> 
 
