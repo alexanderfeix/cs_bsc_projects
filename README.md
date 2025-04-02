@@ -35,14 +35,14 @@ The chatbot is built leveraging small language models and a robust RAG System us
 A very detailed project explanation can be found in /chatbot.
 
 Apart from the chatbot project, i created some small projects during a practical course at the university.
-One of the projects is included here and shows the aridity of plants using a microcontroller and automated push notifications on smartphones.
+One of the projects is included here and shows the aridity of plants using a microcontroller with automated push notifications on smartphones.
 More information about the project is located in /smart_plants.
 
 <img src="./smart_plants/static/aufbau.jpeg" alt="Hardware-Setup" width="20%"/>
 
 ## 7. Semester
-I conducted my bachelor thesis at the BMW Group in Munich and implemented a chatbot that answers questions about internal project data in the department.
-The chatbot was built upton a hybrid RAG architecture using VectorRAG and GraphRAG. 
+I conducted my bachelor thesis at the BMW Group in Munich where i implemented a chatbot that answers questions about internal project data in the department.
+The chatbot was built upon a hybrid RAG architecture using VectorRAG and GraphRAG. 
 The underlying data was organized in a knowledge graph with over 80,000 retrievable entities.
-Moreover, the chatbot was extensively evaluated using common RAG metrics. 
+Moreover, the chatbot was extensively evaluated using common RAG evaluation metrics. 
 Lastly, the business use case was confirmed by interviewing six project managers in the department and the successful integration of the chatbot in the daily workflow.
